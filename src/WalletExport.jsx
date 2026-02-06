@@ -136,7 +136,7 @@ export default function WalletExport() {
   if (!authenticated) {
     return (
       <Page>
-        <h1>Abstract Wallet Recovery Tool</h1>
+        <h1>Find My Fucking Keys Please</h1>
         <p style={{ color: '#aaa', maxWidth: 540, lineHeight: 1.7 }}>
           This tool helps diagnose and recover access to your Abstract Global Wallet (AGW).
           Log in with the <strong>same email/social account</strong> you used to create your Abstract wallet.
@@ -161,7 +161,7 @@ export default function WalletExport() {
 
   return (
     <Page>
-      <h1>Abstract Wallet Recovery Tool</h1>
+      <h1>Find My Fucking Keys Please</h1>
 
       {/* Account Info */}
       <Section title="1. Your Privy Account">
