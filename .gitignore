@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+.env.*
+bytecode.txt
+query-signer.mjs
+.DS_Store
